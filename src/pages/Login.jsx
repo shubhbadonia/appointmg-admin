@@ -114,7 +114,7 @@ const Login = () => {
         {state === "Doctor" && (
           <div>
             <p>Doctor ID: aarav@appointmg.com</p>
-            <p>Doctor Password: Aarav12345</p>
+            <p>Doctor Password: aarav12345</p>
           </div>
         )}
       </div>
